@@ -5,7 +5,7 @@ using System.Text;
 
 namespace TugasTaxi
 {
-    class Program //Mamsky
+    class Program
     {
 		static void Main(string[] args)
 		{
@@ -15,7 +15,7 @@ namespace TugasTaxi
 
 
 			// mengeset nilai properties
-			taxi.DriverName = "Paste Prosmana";
+			taxi.DriverName = "Aresa Aulina Melinda";
 			taxi.OnDuty = true;
 			taxi.NumPassenger = 10;
 
